@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello, my name is Fredson ✋
 
-<!--
-**frednunesjr/frednunesjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Development student from São Paulo, Brazil – Studying at <a href='https://www.digitalhouse.com/br/'>Digital House</a>\
+Focusing on Full Stack Web Development\
 
-Here are some ideas to get you started:
+<!--## What I learning/knowing
+ >:sparkle:&nbsp; Advanced\
+:white_check_mark: &nbsp;Medium\
+:arrow_up:&nbsp; Running\
+:baby:&nbsp; 101 -->
+## Web Development
+- HTML5
+- CSS3
+- JavaScript
+- NodeJS 
+- PostgreSQL
+- NGINX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Which OS I use
+- Mac OS High Sierra
+- Linux Mint Debian Edition 
+- Microsft Windows: No setup acctually
