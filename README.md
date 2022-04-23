@@ -12,11 +12,14 @@ Focusing on Full Stack Web Development\
 - HTML5
 - CSS3
 - JavaScript
-- NodeJS 
-- PostgreSQL
+- NodeJS
 - NGINX
+
+## Databases
+- PostgreSQL
+- SQL Server
+- MySQL
 
 ## Which OS I use
 - Mac OS High Sierra
 - Linux Mint Debian Edition 
-- Microsft Windows: No setup acctually
