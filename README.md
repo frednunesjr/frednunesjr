@@ -1,6 +1,11 @@
 # Hello, my name is Fredson ✋
+I'm from Sao Paulo city (Brazil)
 
-Development student from São Paulo, Brazil – Studying at <a href='https://www.digitalhouse.com/br/'>Digital House</a>\
+Currently a JavaScript developer, but learning other languages, such as Java (type ins't a bad thing at all).\
+Looking for learn Python and Dart.
+
+Working at <a href='http://diamondlog.tec.br/'>Diamond Log</a>\
+Studying at <a href='https://www.digitalhouse.com/br/'>Digital House</a>\
 Focusing on Full Stack Web Development\
 
 <!--## What I learning/knowing
@@ -14,6 +19,7 @@ Focusing on Full Stack Web Development\
 - JavaScript
 - NodeJS
 - NGINX
+- Typescript
 
 ## Databases
 - PostgreSQL
