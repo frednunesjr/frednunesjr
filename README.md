@@ -16,10 +16,11 @@ Focusing on Full Stack Web Development\
 ## Web Development
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (ES6)
 - NodeJS
 - NGINX
 - Typescript
+- ReactJS
 
 ## Databases
 - PostgreSQL
