@@ -26,7 +26,3 @@ Focusing on Full Stack Web Development\
 - PostgreSQL
 - SQL Server
 - MySQL
-
-## Which OS I use
-- Mac OS High Sierra
-- Linux Mint Debian Edition 
